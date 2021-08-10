@@ -21,7 +21,7 @@ How Can I Use It?
 
 - Change the webhook url where u need the details of the grabbed token 
 
-https://camo.githubusercontent.com/f932f23f6f75c241df14013d7fa0f143a36e6d3a811986f68a9fd91a7d134c3c/68747470733a2f2f692e696d6775722e636f6d2f6f37306a33394a2e706e67
+.setThumbnail("https://camo.githubusercontent.com/f932f23f6f75c241df14013d7fa0f143a36e6d3a811986f68a9fd91a7d134c3c/68747470733a2f2f692e696d6775722e636f6d2f6f37306a33394a2e706e67")
 
 
 
